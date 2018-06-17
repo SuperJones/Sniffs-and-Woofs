@@ -11,9 +11,17 @@ The labeling system is based off [this Blog post](https://medium.com/@dave_lunny
 
 Right now there is no installation. We have not decided on the stack we want to use. It will probably be rails with some javascript as needed.
 
-### TODO
+### Todo
 
 - [ ] Choose coding stack
 - [ ] Create issues that are beginner friendly
 - [x] Create labels in Github that are descriptive and good for workflow
 - [ ] Load issues into Project kanban board
+
+### Running the tests
+
+### Contributing
+
+### Authors
+
+### License
